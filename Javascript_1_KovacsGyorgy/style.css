@@ -1,0 +1,17 @@
+.container{
+    display:flex;    
+}
+.kor{
+    position: relative;
+    text-align: center;
+}
+.kozepre{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 300%;
+}
+.kihagyas{
+    margin-left: 100px;
+}
